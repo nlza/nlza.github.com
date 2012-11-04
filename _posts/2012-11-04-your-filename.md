@@ -1,18 +1,8 @@
 ---
 layout: default
-title: Это первый пост
-published: true
-
+published: false
 ---
 
-# How does it work?
+# Ку-ку
 
-Enter Text in Markdown format.
-
-##Это новый пост созданный в prose.io
-
-Читайте пожалуйста
-
-1. Один
-2. Двва
-3. Три
+пост Марк Даун
